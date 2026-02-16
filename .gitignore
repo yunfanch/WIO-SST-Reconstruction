@@ -1,4 +1,4 @@
-# MATLAB
+# MATLAB autosave
 *.asv
 *.m~
 *.mlx~
@@ -6,17 +6,23 @@
 *.slxc
 *.slx.r*
 *.mex*
-*.mat
 
 # macOS
 .DS_Store
 
-# Temporary files
+# Temporary
 *.tmp
 *.log
 
-# MATLAB project files
+# MATLAB project
 *.prj
 
-# Large data files
+# Climate model data
+*.nc
+
+# Raw data
 data/raw/*
+
+# Results and output
+results/*
+figures/output/*
