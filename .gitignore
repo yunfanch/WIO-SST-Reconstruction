@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.m~
+*.mlx~
+*.fig~
+*.slxc
+*.slx.r*
+*.mex*
+*.mat
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# MATLAB project files
+*.prj
+
+# Large data files
+data/raw/*
