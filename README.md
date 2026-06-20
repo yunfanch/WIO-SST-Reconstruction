@@ -75,14 +75,13 @@ Raw coral and instrumental data are not included in this repository. They are av
 1. Clone this repository and add all subfolders to your MATLAB path.
 2. Clone and add [RegEM](https://github.com/tapios/RegEM) to your path if running the RegEM reconstruction.
 3. Download the proxy and instrumental SST data listed above.
-4. Run `performReconstruction.m`, adjusting input paths to point to your local data.
+4. Run `nested_Reconstruction.m`, adjusting input paths to point to your local data.
 
 ## Citation
 
 If you use this code, please cite the manuscript above (full citation to be updated upon publication) and, where applicable, the original method references:
 
 - Schneider, T., 2001: Analysis of incomplete climate data. *J. Climate*, 14, 853–871. https://doi.org/10.1175/1520-0442(2001)014%3C0853:AOICDE%3E2.0.CO;2
-- Tierney, J. E., et al., 2015: Tropical sea surface temperatures for the past four centuries reconstructed from coral archives. *Paleoceanography*, 30, 226–252. https://doi.org/10.1002/2014PA002717
 
 ## License
 
